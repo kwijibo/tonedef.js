@@ -1,0 +1,20 @@
+{
+  "name": "tonedef",
+  "version": "0.0.0",
+  "description": "functional wrapper around Web Audio API's Oscillator, focused on composability",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "music",
+    "web",
+    "audio",
+    "api",
+    "synth",
+    "functional",
+    "programming"
+  ],
+  "author": "Keith Alexander",
+  "license": "ISC"
+}
